@@ -3,15 +3,3 @@ Snake|Raxo|1.0.5|Snake|Snake.exe|exe|https://drive.google.com/uc?export=download
 Mastermind|Raxo|1.0.2|Mastermind|MastermindConsole.exe|exe|https://drive.google.com/uc?export=download&id=11T3frj0UdvZOHkdELDMASdJbUYf-nvJ2
 Minecraft|Mojang|1.18.3|Minecraft|Minecraft.exe|exe|https://launcher.mojang.com/download/Minecraft.exe
 Minecraft 0.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://drive.google.com/uc?export=download&id=1BF3NKHGablnlpqdDEy53TVL9RDNK_evJ
-Game1|bruh|1.1.1|Game1|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game2|bruh|1.1.1|Game2|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game3|bruh|1.1.1|Game3|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game4|bruh|1.1.1|Game4|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game5|bruh|1.1.1|Game5|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game6|bruh|1.1.1|Game6|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game7|bruh|1.1.1|Game7|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game8|bruh|1.1.1|Game8|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game9|bruh|1.1.1|Game9|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game10|bruh|1.1.1|Game10|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game11|bruh|1.1.1|Game11|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
-Game12|bruh|1.1.1|Game12|Game.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
