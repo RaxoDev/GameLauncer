@@ -2,4 +2,4 @@ Tetris|Raxo|1.0.2|Tetris|Tetris.exe|zip|https://github.com/RaxoDev/GameLauncher/
 Snake|Raxo|1.0.5|Snake|Snake.exe|exe|https://drive.google.com/uc?export=download&id=1PVg6q3s_kDDIYNV410msgpzi41Aarv7A
 Mastermind|Raxo|1.0.2|Mastermind|MastermindConsole.exe|exe|https://drive.google.com/uc?export=download&id=11T3frj0UdvZOHkdELDMASdJbUYf-nvJ2
 Minecraft|Mojang|1.18.3|Minecraft|Minecraft.exe|exe|https://launcher.mojang.com/download/Minecraft.exe
-Minecraft 0.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://drive.google.com/uc?export=download&id=1BF3NKHGablnlpqdDEy53TVL9RDNK_evJ
+Minecraft 0.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
