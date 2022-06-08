@@ -3,15 +3,3 @@ Snake|Raxo|1.0.6|Snake|Snake.exe|exe|https://github.com/RaxoDev/GameLauncher/raw
 Mastermind|Raxo|1.0.3|Mastermind|MastermindConsole.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/MastermindConsole.exe
 Minecraft|Mojang|1.0.0|Minecraft|Minecraft.exe|exe|https://launcher.mojang.com/download/Minecraft.exe
 Minecraft 0.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 1.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 2.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 3.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 4.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 5.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 6.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 7.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 8.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 9.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 10.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 11.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
-Minecraft 12.5|David|1.0.0|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
