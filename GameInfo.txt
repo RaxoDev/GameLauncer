@@ -9,7 +9,7 @@ Labyrint|Oscar Furu|1.0.0|Labyrint|Labyrint.exe|zip|https://github.com/RaxoDev/G
 Maze Adventure|Ask Leijonhufvud|0.1.0|MAZE_EXPLORER|MAZE_EXPLORER.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/MAZE_EXPLORER.exe
 Minecraft 0.5|David|1.0.1|Minecraft0.5|Minecraft0.5.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Minecraft0.5.exe
 PacMan|Leo Nilsson|1.0.0|PacmanGame|PacmanGame.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/PacmanGame.exe
-Paddle|Elliot M\x84rtberg|1.0.0|Paddle|Paddle.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Paddle.exe
+Paddle|Elliot M\x94rtberg|1.0.0|Paddle|Paddle.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Paddle.exe
 Paint Brusher|Liam Danielski|1.0.0|PaintBrusher|PaintBrusher.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/PaintBrusher.exe
 Tic Tac Toe|Olle Edler|1.0.0|TicTacToe|TicTacToe.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/TicTacToe.exe
 Monktris|Oscar Björn|1.0.0|Monktris|monkris.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/monktris.exe
