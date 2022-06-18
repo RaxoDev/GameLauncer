@@ -2,7 +2,7 @@ Tetris|Oscar Eriksson|1.0.3|Tetris|Tetris.exe|zip|https://github.com/RaxoDev/Gam
 Battleship|Tor Johansson|1.0.0|Battleship|Battleship.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Battleship.exe
 Battleship|Albin Strandberg|1.0.0|Battleships|Battleships.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Battleships.exe
 Black Jack|Simon Karlsson-Johansson|1.0.0|BlackJack|BlackJack.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/BlackJack.exe
-Dodge 2.0|Jens ™berg|1.0.0|DodgeGame2.0|DodgeGame2.0.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/DodgeGame2.0.exe
+Dodge 2.0|Jens Öberg|1.0.0|DodgeGame2.0|DodgeGame2.0.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/DodgeGame2.0.exe
 Dodger|Jacob Klockerud|1.0.0|Dodger|Dodger.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Dodger.exe
 Jumpman|Axel Korsnes|1.0.0|Jumpman|Jumpman.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Jumpman.exe
 Labyrint|Oscar Furu|1.0.0|Labyrint|Labyrint.exe|zip|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Labyrint.zip
