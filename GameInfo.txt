@@ -11,6 +11,8 @@ Minecraft 0.5|David Nilsson|1.0.1|Minecraft0.5|Minecraft0.5.exe|exe|https://gith
 PacMan|Leo Nilsson|1.0.0|PacmanGame|PacmanGame.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/PacmanGame.exe
 Paddle|Elliot Mortberg|1.0.0|Paddle|Paddle.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Paddle.exe
 Paint Brusher|Liam Danielski|1.0.0|PaintBrusher|PaintBrusher.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/PaintBrusher.exe
+Ping Pong|Fahdi Hayi|1.0.0|PingPong|PingPong.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/PingPong.exe
+Sten Sax Pase|El Sadiq|1.0.0|StenSaxPase|StenSaxPase.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/StenSaxPase.exe
 Tic Tac Toe|Olle Edler|1.0.0|TicTacToe|TicTacToe.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/TicTacToe.exe
 Monktris|Oscar Bjorn|1.0.0|Monktris|monkris.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/monktris.exe
 Snake|Oscar Eriksson|1.0.6|Snake|Snake.exe|exe|https://github.com/RaxoDev/GameLauncher/raw/main/Games/Snake.exe
